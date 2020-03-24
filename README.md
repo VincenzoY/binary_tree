@@ -1,3 +1,5 @@
+# Binary Tree
+
 This is a ruby program which creates a binary tree and allows for insertion, deletion and location of data.
 
 A live version of this program can be found [here](https://repl.it/@VincenzoY/binarytree)
