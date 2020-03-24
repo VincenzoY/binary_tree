@@ -1,4 +1,5 @@
 This is a ruby program which creates a binary tree and allows for insertion, deletion and location of data.
 
-A live version of this program can be found here: 
-<iframe height="400px" width="100%" src="https://repl.it/@VincenzoY/binarytree?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+A live version of this program can be found [here](https://repl.it/@VincenzoY/binarytree)
+
+This project was made based on an assignment from *he Odin Project*. [Link to assignment](https://www.theodinproject.com/courses/ruby-programming/lessons/linked-lists)
